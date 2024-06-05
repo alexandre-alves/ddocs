@@ -1,0 +1,9 @@
+ui:
+  bundle:
+    url: ddocs.duckdns.org
+  supplemental_files:
+  - path: ui.yml
+    contents: |
+      static_files:
+      - .nojekyll
+  - path: .nojekyll
