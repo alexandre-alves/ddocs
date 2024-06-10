@@ -1,0 +1,11 @@
+ui:
+  bundle:
+    url: <url-of-bundle-goes-here>
+  supplemental_files:
+  - path: ui.yml
+    contents: |
+      static_files:
+      - CNAME
+  - path: CNAME
+    contents: |
+      ddocs.duckdns.org
