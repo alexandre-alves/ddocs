@@ -1,5 +1,5 @@
 {
-	"name": "antora-gh-pages-demo",
+	"name": "ddocs",
 	"version": "1.0.0",
 	"description": "This shows how to use GitHub Actions to build and publish GitHub Pages with Antora.",
 	"author": {
