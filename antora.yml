@@ -1,4 +1,4 @@
-name: antora-gh-pages-demo
+name: ddocs
 title: Antora GitHub Pages Demo
 version: true
 start_page: ROOT:index.adoc
