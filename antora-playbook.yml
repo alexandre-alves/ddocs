@@ -1,6 +1,6 @@
 site:
-  title: Antora GitHub Pages Demo
-  start_page: antora-gh-pages-demo::index.adoc
+  title: Ddocs
+  start_page: ddocs::index.adoc
 content:
   sources:
     - url: .
