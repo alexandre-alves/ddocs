@@ -1,6 +1,6 @@
 ui:
   bundle:
-    url: ddocs.duckdns.org
+    url: https://alexandre-alves.github.io/ddocs
   supplemental_files:
   - path: ui.yml
     contents: |
