@@ -7,7 +7,7 @@ Wolpertingers.
 
 [tabs]
 ====
-Tab A:: Contents of tab A.
+Tab A:: Contents of tab ACSX.
 
 Tab B::
 +
